@@ -672,7 +672,7 @@ section {
 }
 
 .about .image {
-  background: url("/me4.jpg") ;
+  background : url("/assets/img/ME.jpg") ;
   background-size: cover;
   min-height: 500px;
 }
@@ -1033,7 +1033,7 @@ color:#e00d0d ;
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("/vc.png") ;
+  background: url("/assets/img/FOOT.png") ;
   background-size: cover;
   color: #fff;
   font-size: 14px;
