@@ -671,11 +671,10 @@ section {
   color: #82909c;
 }
 
-.about .image {
-  background : url("/assets/img/ME.jpg") ;
-  background-size: cover;
-  min-height: 500px;
-}
+.img-fluid{
+  width: 850px;
+  height: 450px;
+  }
 
 .about .skills-content {
   margin-top: 30px;
@@ -1033,7 +1032,7 @@ color:#e00d0d ;
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("/assets/img/FOOT.png") ;
+  background: url("https://media.istockphoto.com/id/1077386668/photo/red-smoke-background.jpg?b=1&s=170667a&w=0&k=20&c=UcVs_5JYhl_rAjqc25jy9IzmJydjV0-vn2-lBub3e2A=");
   background-size: cover;
   color: #fff;
   font-size: 14px;
@@ -1043,6 +1042,7 @@ color:#e00d0d ;
 }
 
 #footer::before {
+  
   content: "";
   position: absolute;
   left: 0;
