@@ -620,7 +620,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #ffb727;
+  color: #e21313;
   line-height: 0;
 }
 
@@ -772,6 +772,12 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #82909c;
+}
+
+
+a {
+  color: #cacaca;
+  text-decoration: none;
 }
 
 /*--------------------------------------------------------------
